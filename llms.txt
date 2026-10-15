@@ -1,59 +1,49 @@
-# HelloParrain.com — Répertoire Officiel des 43 Codes & Liens de Parrainage Vérifiés
+# HelloParrain. (https://helloparrain.com) - 47 Offres de Parrainage (2026)
 
-> Carnet éditorial français regroupant 43 offres de parrainage actives (Banques, Bourse/PEA, Crypto, Cashback, Énergie, Transferts internationaux, Loisirs).
-
-## Domaine Principal & Partenaires
-- Site officiel : https://helloparrain.com
-- Guide spécialisé Hello Watt : https://helloparrain.fr (Code Parrainage Hello Watt (helloparrain.fr))
-- Guide spécialisé Pix Brésil : https://pixbresil.com (Envoyer de l'argent au Brésil via Pix (pixbresil.com))
-
-## Liste Complète des 43 Services, Codes et Liens Officiels
-- **BoursoBank** (Banques & Paiements) — Jusqu'à 150€ offerts | Code : `BERE7353` | Lien : https://bour.so/p/4JsRTiY06zB | Page : https://helloparrain.com/parrainage-boursobank.html
-- **Fortuneo** (Banques & Paiements) — Jusqu'à 130€ offerts | Code : `14029440` | Lien : https://www.fortuneo.fr | Page : https://helloparrain.com/parrainage-fortuneo.html
-- **BNP Paribas** (Banques & Paiements) — Jusqu'à 80€ + 1 an gratuit | Lien direct (sans code) : https://mabanque.bnpparibas/fr/parrainage-filleul/?code=PARBNP150OCTOBRE26&token=835XP238 | Page : https://helloparrain.com/parrainage-bnp-paribas.html
-- **Revolut** (Banques & Paiements) — Prime de bienvenue & Carte offerte | Lien direct (sans code) : https://www.revolut.com/fr-FR/referral/?referral-code=b_reverte | Page : https://helloparrain.com/parrainage-revolut.html
-- **PayPal** (Banques & Paiements) — 10€ offerts | Lien direct (sans code) : https://py.pl/1K2VJA | Page : https://helloparrain.com/parrainage-paypal.html
-- **Crédit Agricole Alpes Provence** (Banques & Paiements) — Jusqu'à 50€ offerts | Code : `LXJUKK9` | Lien : https://www.credit-agricole.fr/ca-alpesprovence/particulier.html | Page : https://helloparrain.com/parrainage-credit-agricole-alpes-provence.html
-- **Wise** (Transfert d'argent) — Transfert gratuit jusqu'à 500€ | Lien direct (sans code) : https://wise.com/invite/dic/benoitr420 | Page : https://helloparrain.com/parrainage-wise.html
-- **TapTap Send** (Transfert d'argent) — 10€ ajoutés à votre envoi | Code : `BENOIT1123` | Lien : https://www.taptapsend.com | Page : https://helloparrain.com/parrainage-taptap-send.html
-- **Sendwave** (Transfert d'argent) — 10€ de crédit offert | Code : `UVY73` | Lien : https://www.sendwave.com | Page : https://helloparrain.com/parrainage-sendwave.html
-- **Trade Republic** (Bourse, PEA & Épargne) — Action gratuite + Intérêts | Code : `35j1b58q` | Lien : https://traderepublic.com/fr-fr/nocodereferral?code=35j1b58q | Page : https://helloparrain.com/parrainage-trade-republic.html
-- **XTB** (Bourse, PEA & Épargne) — Action gratuite offerte | Lien direct (sans code) : https://invite.xtb.com/invite/?referral_code=download_app&af_no_preview=1&deep_link_value=https:%2F%2Fxstation5.xtb.com%2F%23%2Fdeeplink%2FrafReceive%3Fc%3Draf%26code%3D097oQvx98jjKq5wtrn56cAFYBEfruuRM&pid=raf&af_xp=custom&shortlink=raf&source_caller=ui&onelink_id=Q4np | Page : https://helloparrain.com/parrainage-xtb.html
-- **Interactive Brokers** (Bourse, PEA & Épargne) — Jusqu'à 1000$ en actions IBKR | Code : `benoit504` | Lien : https://ibkr.com/referral/benoit504 | Page : https://helloparrain.com/parrainage-interactive-brokers.html
-- **Linxea** (Bourse, PEA & Épargne) — Jusqu'à 100€ / Points cadeaux | Lien direct (sans code) : https://linxea.mention-me.com/m/ol/ju9cp-accc27c2cd | Page : https://helloparrain.com/parrainage-linxea.html
-- **Fortuneo Assurance-Vie** (Bourse, PEA & Épargne) — Jusqu'à 100€ offerts | Code : `14029440` | Lien : https://www.fortuneo.fr/assurance-vie | Page : https://helloparrain.com/parrainage-fortuneo-assurance-vie.html
-- **Bienprêter** (Bourse, PEA & Épargne) — 10€ offerts dès 200€ prêtés | Code : `U6844254217A10` | Lien : https://www.bienpreter.com/parrain/U6844254217A10 | Page : https://helloparrain.com/parrainage-bienpreter.html
-- **Baltis** (Bourse, PEA & Épargne) — Bonus sur 1er investissement | Code : `N6P2YZU7V3` | Lien : https://www.baltis.com | Page : https://helloparrain.com/parrainage-baltis.html
-- **MiiMOSA** (Bourse, PEA & Épargne) — 25€ offerts dès 200€ investis | Code : `LYEFM69P5` | Lien : https://www.miimosa.com | Page : https://helloparrain.com/parrainage-miimosa.html
-- **Crypto.com** (Crypto & Web3) — Jusqu'à 50$ en CRO offerts | Code : `4nuurcgsj7` | Lien : https://crypto.com/app/4nuurcgsj7 | Page : https://helloparrain.com/parrainage-crypto-com.html
-- **Bybit** (Crypto & Web3) — Bonus de bienvenue & Réductions | Code : `M1P2BEP` | Lien : https://www.bybit.eu/invite?ref=M1P2BEP | Page : https://helloparrain.com/parrainage-bybit.html
-- **Wigl** (Crypto & Web3) — Bonus d'inscription offert | Code : `DTGZ6C` | Lien : https://wigl.fr | Page : https://helloparrain.com/parrainage-wigl.html
-- **Deblock** (Crypto & Web3) — Récompense de bienvenue | Lien direct (sans code) : https://deblock.com/a-sif702 | Page : https://helloparrain.com/parrainage-deblock.html
-- **iGraal** (Cashback & Courses) — 3€ à 5€ offerts dès l'inscription | Lien direct (sans code) : https://fr.igraal.com/parrainage?parrain=AG_5eec7dcb69649&utm_medium=raf&utm_source=refer_friend | Page : https://helloparrain.com/parrainage-igraal.html
-- **Widilo** (Cashback & Courses) — 3€ offerts dès l'inscription | Code : `93VM79` | Lien : https://www.widilo.fr/i/93VM79 | Page : https://helloparrain.com/parrainage-widilo.html
-- **Joko** (Cashback & Courses) — 1€ à 3€ offerts | Code : `CGBSKB` | Lien : https://hellojoko.com | Page : https://helloparrain.com/parrainage-joko.html
-- **Poulpeo** (Cashback & Courses) — 5€ offerts (au lieu de 3€) | Code : `qXp6ab` | Lien : https://www.poulpeo.com/p/qXp6ab | Page : https://helloparrain.com/parrainage-poulpeo.html
-- **Uber Eats** (Cashback & Courses) — Réduction sur 1ère commande | Code : `eats-zd9ulm` | Lien : https://www.ubereats.com/fr | Page : https://helloparrain.com/parrainage-uber-eats.html
-- **LetyShops** (Cashback & Courses) — 5€ de bonus cashback | Lien direct (sans code) : https://letyshops.com/fr/winwin?ww=43233612 | Page : https://helloparrain.com/parrainage-letyshops.html
-- **Joybuy** (Cashback & Courses) — Avantage bienvenue exclusif | Code : `EFP954` | Lien : https://www.joybuy.com | Page : https://helloparrain.com/parrainage-joybuy.html
-- **TotalEnergies** (Énergie, Box & Assurances) — 20€ à 40€ déduits sur facture | Code : `116602225` | Lien : https://www.totalenergies.fr/particuliers/parrainage | Page : https://helloparrain.com/parrainage-totalenergies.html
-- **Hello Watt** (Énergie, Box & Assurances) — Bonus parrainage exclusif | Code : `HW-99-ZHQV` | Lien : https://www.hellowatt.fr | Page : https://helloparrain.com/parrainage-hello-watt.html
-- **Primeo Énergie** (Énergie, Box & Assurances) — 15€ à 30€ offerts sur facture | Code : `CLT00097922` | Lien : https://www.primeo-energie.fr | Page : https://helloparrain.com/parrainage-primeo-energie.html
-- **RED by SFR** (Énergie, Box & Assurances) — Jusqu'à 15€ / 1 mois offert | Code : `RED091923F` | Lien : https://www.red-by-sfr.fr | Page : https://helloparrain.com/parrainage-red-by-sfr.html
-- **Roamless** (Énergie, Box & Assurances) — Crédit data eSIM offert | Code : `BENOITUKF` | Lien : https://roamless.com | Page : https://helloparrain.com/parrainage-roamless.html
-- **Acheel** (Énergie, Box & Assurances) — Mois gratuits / Prime parrainage | Code : `BERE7353` | Lien : https://www.acheel.com | Page : https://helloparrain.com/parrainage-acheel.html
-- **Luko** (Énergie, Box & Assurances) — Réduction sur votre assurance | Code : `breverte@gmail.com` | Lien : https://fr.luko.eu | Page : https://helloparrain.com/parrainage-luko.html
-- **Deezer** (Loisirs, Bien-être & Sport) — Mois d'abonnement offerts | Lien direct (sans code) : https://www.deezer.com/explore/referral?cip=YzU0ODdjN2ViNzdiNzliYjM3Njk4MzQwZmE5ODM4ZTc0N2IyN2VhYmRhMGU1YTlmMTBhNWNlMGUwN2Q2MjE4YjFkZTQ4MzEwNjM5OTFjMGYwZDViYTBjY2UxNjQ1YjQxZDQ2NTgxOWU2YTE4M2FlMjdhYjZmOTcxZWU5NmQ5NzJjNGRhMjQyMTA4MWRlNTQ3M2YyZTcxNjVmMjRjM2RmODk2Yjk2MzUxYjgxNDdlYmRkYTA4ZmFlMWVmZDE2ZmY0&utm_campaign=deezer_referral_program&utm_source=6810860563 | Page : https://helloparrain.com/parrainage-deezer.html
-- **Basic-Fit** (Loisirs, Bien-être & Sport) — Semaines gratuites / Frais réduits | Lien direct (sans code) : https://member.basic-fit.com/refer/TBBXREBI | Page : https://helloparrain.com/parrainage-basic-fit.html
-- **TheFork** (Loisirs, Bien-être & Sport) — 1000 Yums offerts (jusqu'à 20€) | Code : `9B4F095B` | Lien : https://www.thefork.fr | Page : https://helloparrain.com/parrainage-thefork.html
-- **DistroKid** (Loisirs, Bien-être & Sport) — -7% sur votre 1ère année | Lien direct (sans code) : https://distrokid.com/vip/seven/1782601 | Page : https://helloparrain.com/parrainage-distrokid.html
-- **DR SMILE x Impress** (Loisirs, Bien-être & Sport) — Remise importante sur aligneurs | Code : `DYC-OCS-Y52` | Lien : https://smile2impress.com/fr/referral?code=DYC-OCS-Y52 | Page : https://helloparrain.com/parrainage-dr-smile-impress.html
-- **DestockCBD** (Loisirs, Bien-être & Sport) — Bon de réduction immédiat | Lien direct (sans code) : https://destockcbd.com?wlr_ref=REF-6ZT-L7H | Page : https://helloparrain.com/parrainage-destockcbd.html
-- **Unibet** (Loisirs, Bien-être & Sport) — Bonus de parrainage + Bienvenue | Code : `31DA01266B7525A0` | Lien : https://www.unibet.fr/inscription/?campaign=70426&parrain=31DA01266B7525A0 | Page : https://helloparrain.com/parrainage-unibet.html
-- **Betsson** (Loisirs, Bien-être & Sport) — Bonus parrainage exclusif | Code : `Hpxih5` | Lien : https://betsson.fr/fr/%23register?language=fr&referralCode=Hpxih5 | Page : https://helloparrain.com/parrainage-betsson.html
-
-## Articles du Mag du Parrainage
-- Cumuler 500€ de primes bancaires : https://helloparrain.com/blog-cumuler-primes-banques-en-ligne.html
-- Comparatif PEA & Courtiers Bourse : https://helloparrain.com/blog-meilleurs-courtiers-bourse-pea.html
-- Réduire sa facture d'électricité et d'énergie : https://helloparrain.com/blog-reduire-facture-electricite-energie.html
-- Envoyer de l'argent à l'étranger et au Brésil (Pix) : https://helloparrain.com/blog-envoyer-argent-etranger-bresil-pix.html
+- **BoursoBank** (Banques & Néobanques) : Code `BERE7353` | Lien : https://bour.so/p/4JsRTiY06zB | Bonus : Jusqu'à 150€ ou 220€ offerts | Guide : https://helloparrain.com/parrainage-boursobank.html
+- **Fortuneo Banque** (Banques & Néobanques) : Code `14029440` | Lien : https://www.fortuneo.fr | Bonus : Jusqu'à 130€ offerts | Guide : https://helloparrain.com/parrainage-fortuneo.html
+- **Hello bank!** (Banques & Néobanques) : Activation par lien direct | Lien : https://www.hellobank.fr/fr/parrainage-filleul/?code=PPART140OCTOBRE26&token=759ZI976 | Bonus : Jusqu'à 140€ offerts + avantages Hello Prime | Guide : https://helloparrain.com/parrainage-hello-bank.html
+- **BNP Paribas** (Banques & Néobanques) : Activation par lien direct | Lien : https://mabanque.bnpparibas/fr/parrainage-filleul/?code=PARBNP150OCTOBRE26&token=835XP238 | Bonus : Jusqu'à 80€ offerts + avantages Esprit Libre | Guide : https://helloparrain.com/parrainage-bnp-paribas.html
+- **Revolut** (Banques & Néobanques) : Activation par lien direct | Lien : https://www.revolut.com/fr-FR/referral/?referral-code=b_reverte | Bonus : Prime de bienvenue exclusive via lien | Guide : https://helloparrain.com/parrainage-revolut.html
+- **PayPal** (Banques & Néobanques) : Activation par lien direct | Lien : https://py.pl/55jRJUlrEY | Bonus : 10€ offerts dès 5€ dépensés ou envoyés | Guide : https://helloparrain.com/parrainage-paypal.html
+- **Crédit Agricole Alpes Provence** (Banques & Néobanques) : Code `LXJUKK9` | Lien : https://www.credit-agricole.fr/ca-alpesprovence/particulier.html | Bonus : Prime filleul de 50€ à 80€ | Guide : https://helloparrain.com/parrainage-credit-agricole-alpes-provence.html
+- **Wise** (Banques & Néobanques) : Activation par lien direct | Lien : https://wise.com/invite/dic/benoitr420 | Bonus : 1er transfert sans frais ou carte offerte | Guide : https://helloparrain.com/parrainage-wise.html
+- **Lemfi** (Banques & Néobanques) : Code `Beno2gz2` | Lien : https://www.lemfi.com | Bonus : Bonus offert sur votre 1er transfert d'argent | Guide : https://helloparrain.com/parrainage-lemfi.html
+- **Remitly** (Banques & Néobanques) : Activation par lien direct | Lien : https://www.remitly.com/r/2uvjvr85 | Bonus : Remise immédiate sur votre 1er transfert d'argent | Guide : https://helloparrain.com/parrainage-remitly.html
+- **ACE Money Transfer** (Banques & Néobanques) : Code `4391257` | Lien : https://acemoneytransfer.com | Bonus : Bonus de bienvenue sur votre 1er transfert | Guide : https://helloparrain.com/parrainage-ace-money-transfer.html
+- **TapTap Send** (Banques & Néobanques) : Code `BENOIT1123` | Lien : https://www.taptapsend.com | Bonus : 5€ à 10€ ajoutés sur votre 1er transfert | Guide : https://helloparrain.com/parrainage-taptap-send.html
+- **Sendwave** (Banques & Néobanques) : Code `UVY73` | Lien : https://www.sendwave.com | Bonus : Crédit bonus de 5€ à 10€ dès votre 1er envoi | Guide : https://helloparrain.com/parrainage-sendwave.html
+- **Trade Republic** (Bourse, Épargne & Immobilier) : Code `35j1b58q` | Lien : https://traderepublic.com/fr-fr/nocodereferral?code=35j1b58q | Bonus : Action gratuite offerte + intérêts BCE + 1% Saveback | Guide : https://helloparrain.com/parrainage-trade-republic.html
+- **XTB** (Bourse, Épargne & Immobilier) : Activation par lien direct | Lien : https://invite.xtb.com/invite/?referral_code=download_app&af_no_preview=1&deep_link_value=https:%2F%2Fxstation5.xtb.com%2F%23%2Fdeeplink%2FrafReceive%3Fc%3Draf%26code%3D097oQvx98jjKq5wtrn56cAFYBEfruuRM&pid=raf&af_xp=custom&shortlink=raf&source_caller=ui&onelink_id=Q4np | Bonus : 1 action gratuite offerte dès votre 1er dépôt | Guide : https://helloparrain.com/parrainage-xtb.html
+- **Interactive Brokers (IBKR)** (Bourse, Épargne & Immobilier) : Activation par lien direct | Lien : https://ibkr.com/referral/benoit504 | Bonus : Jusqu'à 1 000 $ en actions offerts | Guide : https://helloparrain.com/parrainage-interactive-brokers.html
+- **Linxea** (Bourse, Épargne & Immobilier) : Activation par lien direct | Lien : https://linxea.mention-me.com/m/ol/ju9cp-accc27c2cd | Bonus : 50€ offerts en chèque-cadeau | Guide : https://helloparrain.com/parrainage-linxea.html
+- **Fortuneo Assurance-Vie** (Bourse, Épargne & Immobilier) : Code `14029440` | Lien : https://www.fortuneo.fr/assurance-vie | Bonus : Jusqu'à 300€ offerts | Guide : https://helloparrain.com/parrainage-fortuneo-assurance-vie.html
+- **Bienprêter** (Bourse, Épargne & Immobilier) : Code `U6844254217A10` | Lien : https://www.bienpreter.com/parrain/U6844254217A10 | Bonus : 10€ offerts dès 200€ prêtés | Guide : https://helloparrain.com/parrainage-bienpreter.html
+- **Baltis** (Bourse, Épargne & Immobilier) : Code `N6P2YZU7V3` | Lien : https://www.baltis.com | Bonus : Bonus sur votre 1er investissement | Guide : https://helloparrain.com/parrainage-baltis.html
+- **MiiMOSA** (Bourse, Épargne & Immobilier) : Code `LYEFM69P5` | Lien : https://www.miimosa.com | Bonus : 25€ offerts dès 200€ investis | Guide : https://helloparrain.com/parrainage-miimosa.html
+- **Crypto.com** (Crypto & Web3) : Code `4nuurcgsj7` | Lien : https://crypto.com/app/4nuurcgsj7 | Bonus : Jusqu'à 50$ de bonus en CRO | Guide : https://helloparrain.com/parrainage-crypto-com.html
+- **Bybit Europe** (Crypto & Web3) : Code `M1P2BEP` | Lien : https://www.bybit.eu/invite?ref=M1P2BEP | Bonus : Bonus de bienvenue + 10 USDT | Guide : https://helloparrain.com/parrainage-bybit.html
+- **Wigl** (Crypto & Web3) : Code `DTGZ6C` | Lien : https://wigl.fr | Bonus : 20€ offerts en WIGL | Guide : https://helloparrain.com/parrainage-wigl.html
+- **Deblock** (Crypto & Web3) : Activation par lien direct | Lien : https://deblock.com/a-sif702 | Bonus : Abonnement Premium offert | Guide : https://helloparrain.com/parrainage-deblock.html
+- **iGraal** (Cashback, Repas & Shopping) : Activation par lien direct | Lien : https://fr.igraal.com/parrainage?parrain=AG_5eec7dcb69649&utm_medium=raf&utm_source=refer_friend | Bonus : 3€ à 5€ offerts dès l'inscription | Guide : https://helloparrain.com/parrainage-igraal.html
+- **Widilo** (Cashback, Repas & Shopping) : Code `93VM79` | Lien : https://www.widilo.fr/i/93VM79 | Bonus : 3€ offerts dès l'inscription | Guide : https://helloparrain.com/parrainage-widilo.html
+- **Joko** (Cashback, Repas & Shopping) : Code `CGBSKB` | Lien : https://hellojoko.com | Bonus : 3€ offerts à l'inscription | Guide : https://helloparrain.com/parrainage-joko.html
+- **Poulpeo** (Cashback, Repas & Shopping) : Code `qXp6ab` | Lien : https://www.poulpeo.com/p/qXp6ab | Bonus : 5€ offerts dès l'inscription | Guide : https://helloparrain.com/parrainage-poulpeo.html
+- **Uber Eats** (Cashback, Repas & Shopping) : Code `eats-zd9ulm` | Lien : https://www.ubereats.com/fr | Bonus : Jusqu'à 15€ de réduction | Guide : https://helloparrain.com/parrainage-uber-eats.html
+- **LetyShops** (Cashback, Repas & Shopping) : Activation par lien direct | Lien : https://letyshops.com/fr/winwin?ww=43233612 | Bonus : 5€ de bonus | Guide : https://helloparrain.com/parrainage-letyshops.html
+- **Joybuy** (Cashback, Repas & Shopping) : Code `EFP954` | Lien : https://www.joybuy.com | Bonus : Coupons exclusifs | Guide : https://helloparrain.com/parrainage-joybuy.html
+- **TotalEnergies** (Énergie, Télécoms & Assurances) : Code `116602225` | Lien : https://www.totalenergies.fr/particuliers/parrainage | Bonus : Jusqu'à 40€ déduits | Guide : https://helloparrain.com/parrainage-totalenergies.html
+- **Hello Watt** (Énergie, Télécoms & Assurances) : Code `HW-99-ZHQV` | Lien : https://www.hellowatt.fr | Bonus : Bonus en cagnotte | Guide : https://helloparrain.com/parrainage-hellowatt.html
+- **Primeo Énergie** (Énergie, Télécoms & Assurances) : Code `CLT00097922` | Lien : https://www.primeo-energie.fr | Bonus : 15€ à 30€ offerts | Guide : https://helloparrain.com/parrainage-primeo-energie.html
+- **RED by SFR** (Énergie, Télécoms & Assurances) : Code `RED091923F` | Lien : https://www.red-by-sfr.fr | Bonus : Jusqu'à 15€ offerts | Guide : https://helloparrain.com/parrainage-red-by-sfr.html
+- **Roamless** (Énergie, Télécoms & Assurances) : Code `BENOITUKF` | Lien : https://roamless.com | Bonus : Crédit data offert | Guide : https://helloparrain.com/parrainage-roamless.html
+- **Acheel Assurance** (Énergie, Télécoms & Assurances) : Code `BERE7353` | Lien : https://www.acheel.com | Bonus : 1 mois offert | Guide : https://helloparrain.com/parrainage-acheel.html
+- **Luko (Allianz Direct)** (Énergie, Télécoms & Assurances) : Code `breverte@gmail.com` | Lien : https://fr.luko.eu | Bonus : 1 mois offert | Guide : https://helloparrain.com/parrainage-luko.html
+- **Deezer** (Loisirs, Sport & Bien-être) : Activation par lien direct | Lien : https://www.deezer.com/explore/referral?cip=YzU0ODdjN2ViNzdiNzliYjM3Njk4MzQwZmE5ODM4ZTc0N2IyN2VhYmRhMGU1YTlmMTBhNWNlMGUwN2Q2MjE4YjFkZTQ4MzEwNjM5OTFjMGYwZDViYTBjY2UxNjQ1YjQxZDQ2NTgxOWU2YTE4M2FlMjdhYjZmOTcxZWU5NmQ5NzJjNGRhMjQyMTA4MWRlNTQ3M2YyZTcxNjVmMjRjM2RmODk2Yjk2MzUxYjgxNDdlYmRkYTA4ZmFlMWVmZDE2ZmY0&utm_campaign=deezer_referral_program&utm_source=6810860563 | Bonus : Jusqu'à 2 mois offerts | Guide : https://helloparrain.com/parrainage-deezer.html
+- **Basic-Fit** (Loisirs, Sport & Bien-être) : Activation par lien direct | Lien : https://member.basic-fit.com/refer/TBBXREBI | Bonus : 4 semaines offertes | Guide : https://helloparrain.com/parrainage-basic-fit.html
+- **TheFork** (Loisirs, Sport & Bien-être) : Code `9B4F095B` | Lien : https://www.thefork.fr | Bonus : 1 000 Yums offerts (20€) | Guide : https://helloparrain.com/parrainage-thefork.html
+- **DistroKid** (Loisirs, Sport & Bien-être) : Activation par lien direct | Lien : https://distrokid.com/vip/seven/1782601 | Bonus : 7% de réduction | Guide : https://helloparrain.com/parrainage-distrokid.html
+- **DR SMILE x Impress** (Loisirs, Sport & Bien-être) : Code `DYC-OCS-Y52` | Lien : https://smile2impress.com/fr/referral?code=DYC-OCS-Y52 | Bonus : Jusqu'à 400€ de remise | Guide : https://helloparrain.com/parrainage-drsmile-impress.html
+- **DestockCBD** (Loisirs, Sport & Bien-être) : Activation par lien direct | Lien : https://destockcbd.com?wlr_ref=REF-6ZT-L7H | Bonus : Bon de réduction | Guide : https://helloparrain.com/parrainage-destockcbd.html
+- **Unibet France** (Loisirs, Sport & Bien-être) : Code `31DA01266B7525A0` | Lien : https://www.unibet.fr/inscription/?campaign=70426&parrain=31DA01266B7525A0 | Bonus : Freebets EN PLUS | Guide : https://helloparrain.com/parrainage-unibet.html
+- **Betsson France** (Loisirs, Sport & Bien-être) : Code `Hpxih5` | Lien : https://betsson.fr/fr/%23register?language=fr&referralCode=Hpxih5 | Bonus : 10€ parrainage | Guide : https://helloparrain.com/parrainage-betsson.html
