@@ -74,6 +74,9 @@ a { color: var(--emerald); text-decoration: none; transition: all 0.15s ease; }
 .faq-q { font-family: 'Fraunces', Georgia, serif; font-weight: 700; font-size: 1.06rem; margin-bottom: 0.4rem; }
 .blog-card { background: var(--surface); border: var(--border-ink); border-radius: var(--radius); padding: 1.4rem; box-shadow: var(--shadow-md); display: flex; flex-direction: column; justify-content: space-between; }
 .blog-tag { display: inline-block; background: var(--amber); color: var(--ink); font-family: 'JetBrains Mono', monospace; font-size: 0.72rem; font-weight: 800; padding: 0.2rem 0.6rem; border-radius: 6px; border: 1.5px solid var(--ink); margin-bottom: 0.75rem; width: fit-content; }
+.share-buttons { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; align-items: center;}
+.share-btn { display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 8px; background: var(--bg-paper); border: 1.5px solid var(--ink); font-size: 1rem; cursor: pointer; text-decoration: none; color: var(--ink); box-shadow: 2px 2px 0px var(--ink); transition: background 0.15s, transform 0.15s; }
+.share-btn:hover { background: var(--amber); transform: translate(-1px, -1px); }
 .mobile-sticky-bar { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: var(--bg-paper); border-top: var(--border-ink); padding: 0.75rem 1rem; z-index: 999; gap: 0.6rem; }
 #copy-toast { position: fixed; bottom: 85px; left: 50%; transform: translateX(-50%) translateY(20px); background: var(--ink); color: #fff; padding: 0.75rem 1.4rem; border-radius: 999px; border: 2px solid var(--amber); font-weight: 800; font-size: 0.9rem; opacity: 0; pointer-events: none; transition: all 0.25s ease; z-index: 1000; }
 #copy-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
