@@ -1,4 +1,4 @@
-# HelloParrain. (https://helloparrain.com) - 56 Offres de Parrainage (2026)
+# HelloParrain. (https://helloparrain.com) - 58 Offres de Parrainage (2026)
 
 - **BoursoBank** (Banques & Néobanques) : Code `BERE7353` | Lien : https://bour.so/p/4JsRTiY06zB | Bonus : Jusqu'à 150€ ou 220€ offerts | Guide : https://helloparrain.com/parrainage-boursobank.html
 - **Fortuneo Banque** (Banques & Néobanques) : Code `14029440` | Lien : https://www.fortuneo.fr | Bonus : Jusqu'à 130€ offerts | Guide : https://helloparrain.com/parrainage-fortuneo.html
@@ -16,6 +16,7 @@
 - **SumUp** (Banques & Néobanques) : Code `BENOIT3941` | Lien : https://www.sumup.com/fr-fr/ | Bonus : 10€ offerts | Guide : https://helloparrain.com/parrainage-sumup.html
 - **Paysend** (Banques & Néobanques) : Code `06z4rb` | Lien : https://paysend.com/fr/referral/06z4rb | Bonus : Transfert international à frais réduits | Guide : https://helloparrain.com/parrainage-paysend.html
 - **Ria Money Transfer** (Banques & Néobanques) : Code `XWEJ-PJPW` | Lien : https://www.riamoneytransfer.com | Bonus : Réduction sur votre 1er transfert | Guide : https://helloparrain.com/parrainage-ria-money-transfer.html
+- **Upcomers** (Bourse, Épargne & Immobilier) : Code `wbe0t8pv` | Lien : https://www.upcomers.com/fr/?code=wbe0t8pv#challenges | Bonus : Réduction sur votre challenge | Guide : https://helloparrain.com/parrainage-upcomers.html
 - **Trade Republic** (Bourse, Épargne & Immobilier) : Code `35j1b58q` | Lien : https://traderepublic.com/fr-fr/nocodereferral?code=35j1b58q | Bonus : Action gratuite offerte + 1% Saveback | Guide : https://helloparrain.com/parrainage-trade-republic.html
 - **XTB** (Bourse, Épargne & Immobilier) : Activation par lien direct | Lien : https://invite.xtb.com/invite/?referral_code=download_app&af_no_preview=1&deep_link_value=https:%2F%2Fxstation5.xtb.com%2F%23%2Fdeeplink%2FrafReceive%3Fc%3Draf%26code%3D097oQvx98jjKq5wtrn56cAFYBEfruuRM&pid=raf&af_xp=custom&shortlink=raf&source_caller=ui&onelink_id=Q4np | Bonus : 1 action gratuite offerte | Guide : https://helloparrain.com/parrainage-xtb.html
 - **Interactive Brokers (IBKR)** (Bourse, Épargne & Immobilier) : Activation par lien direct | Lien : https://ibkr.com/referral/benoit504 | Bonus : Jusqu'à 1 000 $ en actions | Guide : https://helloparrain.com/parrainage-interactive-brokers.html
@@ -56,3 +57,4 @@
 - **DestockCBD** (Loisirs, Sport & Bien-être) : Activation par lien direct | Lien : https://destockcbd.com?wlr_ref=REF-6ZT-L7H | Bonus : Bon de réduction | Guide : https://helloparrain.com/parrainage-destockcbd.html
 - **Unibet France** (Loisirs, Sport & Bien-être) : Code `31DA01266B7525A0` | Lien : https://www.unibet.fr/inscription/?campaign=70426&parrain=31DA01266B7525A0 | Bonus : Freebets EN PLUS | Guide : https://helloparrain.com/parrainage-unibet.html
 - **Betsson France** (Loisirs, Sport & Bien-être) : Code `Hpxih5` | Lien : https://betsson.fr/fr/%23register?language=fr&referralCode=Hpxih5 | Bonus : 10€ parrainage | Guide : https://helloparrain.com/parrainage-betsson.html
+- **Upcomers** (Bourse, Épargne & Immobilier) : Code `wbe0t8pv` | Lien : https://www.upcomers.com/fr/?code=wbe0t8pv#challenges | Bonus : Réduction sur votre challenge Prop Firm | Guide : https://helloparrain.com/parrainage-upcomers.html
