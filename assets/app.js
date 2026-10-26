@@ -10,6 +10,21 @@ function showToast(message) {
   toast.textContent = message; toast.classList.add("show");
   clearTimeout(window._toastTimer); window._toastTimer = setTimeout(() => toast.classList.remove("show"), 2600);
 }
+
+window.onscroll = function() {scrollFunction()};
+function scrollFunction() {
+  let btn = document.getElementById("scrollToTopBtn");
+  if (!btn) return;
+  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+    btn.style.display = "block";
+  } else {
+    btn.style.display = "none";
+  }
+}
+function topFunction() {
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const now = new Date();
   const dateFr = now.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }).toUpperCase();
